@@ -1,0 +1,13 @@
+/* imported choosen font */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200&display=swap" rel="stylesheet');
+
+body {
+    max-width: 100%;
+}
+
+p {
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+}
