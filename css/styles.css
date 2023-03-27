@@ -1,13 +1,18 @@
-/* imported choosen font */
-
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200&display=swap" rel="stylesheet');
-
 body {
-    max-width: 100%;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    background-color: #17bb5b;
 }
 
 p {
-    text-align: center;
-    font-family: 'Noto Sans', sans-serif;
-    font-weight: 400;
+    font-size: 1.2em;
+    color: #333;
+}
+
+p.small {
+    color: #FF6347;
+}
+
+p.big {
+    color: #4169E1;
 }
