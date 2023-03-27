@@ -1,1 +1,2 @@
-This is the readme file for the pokedex application.
+SIMPLE-JS-APP
+JavaScript work for CareerFoundry
